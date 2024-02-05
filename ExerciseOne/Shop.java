@@ -1,3 +1,5 @@
+package ExerciseOne;
+
 import java.util.Scanner;
 
 public class Shop {

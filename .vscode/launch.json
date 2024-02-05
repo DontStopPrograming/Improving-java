@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Shop",
             "request": "launch",
+            "mainClass": "ExerciseOne.Shop",
+            "projectName": "java_4f34a7bf"
+        },
+        {
+            "type": "java",
+            "name": "Shop",
+            "request": "launch",
             "mainClass": "Shop",
             "projectName": "java_4f34a7bf"
         },
